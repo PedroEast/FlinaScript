@@ -1,0 +1,1 @@
+[{"index":0,"columnName":"id","columnType":"integer"},{"index":1,"columnName":"address","columnType":"varchar"},{"index":2,"columnName":"birth_day","columnType":"datetime"},{"index":3,"columnName":"sex","columnType":"varchar"},{"index":4,"columnName":"user_name","columnType":"varchar"}]
